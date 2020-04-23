@@ -8,7 +8,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-base": "^18.1.44",
+    "@syncfusion/ej2-vue-buttons": "^18.1.43",
+    "@syncfusion/ej2-vue-charts": "^18.1.45",
+    "@syncfusion/ej2-vue-circulargauge": "^18.1.42",
     "core-js": "^3.6.4",
+    "eslint-loader": "^4.0.0",
+    "jquery": "^3.5.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
